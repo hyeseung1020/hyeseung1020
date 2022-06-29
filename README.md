@@ -2,7 +2,7 @@
 
 ## 📝 Studying 📝
 ---
-- [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/hyeseung1020) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://github.com/hyeseung1020) [![Html5](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/hyeseung1020)
+- [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/hyeseung1020) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://github.com/hyeseung1020) [![Html5](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/hyeseung1020) [![CSS3](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/hyeseung1020) [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/hyeseung1020)
 
 
 ## 🛠 Tool 🛠
